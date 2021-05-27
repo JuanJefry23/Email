@@ -13,3 +13,9 @@ The "Reset Form" button 🔘 when it is clicked then all the form is reseted.
 - ###### CSS
 - ###### TAILWIND CSS
 - ###### JAVASCRIPT
+
+- ######Deployed website project
+
+Github pages: https://juanjefry23.github.io/Email/
+
+Netlify: https://jovial-lovelace-404ed0.netlify.app/

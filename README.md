@@ -8,14 +8,16 @@ The email input is also validate with regular expressions , so the user needs to
 
 The "Reset Form" button 🔘 when it is clicked then all the form is reseted. 
 
+### Deployed website project:
+
+Github pages: https://juanjefry23.github.io/Email/
+
+Netlify: https://jovial-lovelace-404ed0.netlify.app/
+
+
 ### Technologies in this project:
 - ###### HTML
 - ###### CSS
 - ###### TAILWIND CSS
 - ###### JAVASCRIPT
 
-- ######Deployed website project
-
-Github pages: https://juanjefry23.github.io/Email/
-
-Netlify: https://jovial-lovelace-404ed0.netlify.app/
